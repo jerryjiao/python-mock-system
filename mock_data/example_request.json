@@ -1,0 +1,23 @@
+{
+  "request": {
+      "method": "GET",
+      "url": "/api/data",
+      "query_parameters": {
+          "type": "example"
+      }
+  },
+  "response": {
+      "status_code": 200,
+      "headers": {
+          "Content-Type": "application/json"
+      },
+      "body": {
+          "message": "This is a mocked response",
+          "data": [
+              "item1",
+              "item2",
+              "item3"
+          ]
+      }
+  }
+}

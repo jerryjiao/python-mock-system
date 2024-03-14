@@ -1,0 +1,16 @@
+{
+  "response": {
+    "status_code": 200,
+    "headers": {
+      "Content-Type": "application/json"
+    },
+    "body": {
+      "message": "This is a mocked response for /api/table",
+      "data": [
+        "item1",
+        "item2",
+        "item3"
+      ]
+    }
+  }
+}
