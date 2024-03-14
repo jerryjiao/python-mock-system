@@ -1,0 +1,8 @@
+{
+    "interceptions": [
+      {
+        "url": "/mock",
+        "response_file": "test_response.json"
+      }
+    ]
+  }

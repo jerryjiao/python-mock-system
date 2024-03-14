@@ -1,6 +1,0 @@
-{
-    "proxy_port": 8080,
-    "intercept_rules_enabled": true,
-    "mock_data_path": "mock_data/",
-    "real_backend_url": "http://localhost:8080"
-}
